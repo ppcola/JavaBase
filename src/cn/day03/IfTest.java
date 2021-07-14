@@ -30,5 +30,6 @@ public class IfTest {
 			
 		}
 		System.out.printf("Max:%d",max);
+		sc.close();
 	}
 }
