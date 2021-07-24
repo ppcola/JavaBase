@@ -10,6 +10,19 @@
     - 数组可以存储基本类型和引用类型
     - 集合只能存储引用类型
     
+
+----
+> **Collection**
+>- List
+>     - ArrayList
+>     - Vector
+>     - LinkedList
+> - Set
+>     - HashSet
+>     - TreeSet
+
+
+    
 ### 迭代器
  
 > 迭代器是便利集合的一种方式。
