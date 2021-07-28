@@ -4,7 +4,7 @@ public class Student implements  Comparable<Student> {
 	private String name;
 	private int age;
 	public String getName() {
-		return name;);
+		return name;
 		
 
 	}
